@@ -18,7 +18,18 @@ validSolution([
   [3, 4, 5, 2, 8, 6, 1, 7, 9]
 ]); // => true
 
-🔴 🟢 
+🔴 🟢  ♻️
+
+## 2 calculation
+
+3 conditions:
+- row
+- column
+- squares (3x3) 
+each must contain all numbers 1-9
+
+🔴 
+
 
 
 ***
