@@ -1,4 +1,5 @@
-from SudokuSolutionValidator import main
+from SudokuSolutionValidator import validSolution
+
 # initial test
 def test_init():
-    assert(main())==False
+    assert (validSolution()) == False
