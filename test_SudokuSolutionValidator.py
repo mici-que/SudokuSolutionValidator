@@ -75,7 +75,7 @@ def test_InvalidCol():
     """solution is incorrect, 1st column contains two 3s"""
 
     sudokuArray = [
-        [5, 3, 4, 6, 7, 8, 9, 1, 2],
+        [3, 5, 4, 6, 7, 8, 9, 1, 2],
         [6, 7, 2, 1, 9, 5, 3, 4, 8],
         [1, 9, 8, 3, 4, 2, 5, 6, 7],
         [8, 5, 9, 7, 6, 1, 4, 2, 3],
@@ -92,8 +92,8 @@ def test_InvalidRow():
     """solution is incorrect, 1st row contains two 7s"""
 
     sudokuArray = [
-        [5, 3, 4, 6, 7, 8, 9, 1, 2],
-        [6, 7, 2, 1, 9, 5, 3, 4, 8],
+        [5, 7, 4, 6, 7, 8, 9, 1, 2],
+        [6, 3, 2, 1, 9, 5, 3, 4, 8],
         [1, 9, 8, 3, 4, 2, 5, 6, 7],
         [8, 5, 9, 7, 6, 1, 4, 2, 3],
         [4, 2, 6, 8, 5, 3, 7, 9, 1],
