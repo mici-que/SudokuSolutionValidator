@@ -1,2 +1,2 @@
-def validSolution():
+def validSolution(sudoku=None):
     pass
