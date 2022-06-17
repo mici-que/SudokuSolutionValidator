@@ -28,7 +28,7 @@ validSolution([
 - squares (3x3) 
 each must contain all numbers 1-9
 
-🔴 🟢
+🔴 🟢 ♻️ ♻️
 
 
 
